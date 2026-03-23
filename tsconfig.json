@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/WhyChooseUs.jsx", "components/Training.jsx", "components/Testimonials.jsx", "components/Hero.jsx", "components/Footer.jsx", "components/Courses.jsx", "components/Contact.jsx", "components/About.jsx"  ],
   "exclude": ["node_modules"]
 }
